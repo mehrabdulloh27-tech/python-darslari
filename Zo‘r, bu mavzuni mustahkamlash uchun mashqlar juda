@@ -1,0 +1,100 @@
+Zo‘r, bu mavzuni mustahkamlash uchun mashqlar juda foydali 👍
+Sizga **foydalanuvchi inputi + list/dictionary + loop** mavzusida 5 ta topshiriq beraman:
+
+---
+
+## 🧩 1-topshiriq (oddiy)
+
+Foydalanuvchidan mahsulot nomlarini kiriting:
+
+* Har safar bitta mahsulot kiritsin
+* `"stop"` yozilsa to‘xtasin
+* Barcha mahsulotlarni **ro‘yxat (list)** ga saqlang
+* Oxirida ro‘yxatni chiqaring
+
+👉 Qo‘shimcha: nechta mahsulot kiritilganini ham chiqaring
+
+---
+
+## 🧩 2-topshiriq (biroz qiyinroq)
+
+Foydalanuvchidan:
+
+* mahsulot nomi
+* va uning narxini kiriting
+
+Bularni **lug‘at (dictionary)** ga saqlang:
+
+```
+olma → 5000
+non → 3000
+```
+
+Oxirida:
+
+* barcha mahsulotlarni chiqaring
+* jami summani hisoblang
+
+---
+
+## 🧩 3-topshiriq (filtrlash)
+
+1-topshiriqdagi ro‘yxatdan foydalanib:
+
+* faqat **"a" harfi bor mahsulotlarni** alohida chiqaradigan dastur yozing
+
+👉 Masalan:
+
+```
+["olma", "non", "anor"] → ["olma", "anor"]
+```
+
+---
+
+## 🧩 4-topshiriq (takrorlanish bilan ishlash)
+
+Foydalanuvchi bir xil mahsulotni bir necha marta kiritishi mumkin.
+
+Siz:
+
+* har bir mahsulot nechta marta kiritilganini hisoblang
+
+👉 Natija:
+
+```
+olma: 3 ta
+non: 2 ta
+```
+
+---
+
+## 🧩 5-topshiriq (mini loyiha 💪)
+
+Kichik “kassa” dasturi yozing:
+
+* mahsulot nomi
+* narxi
+* soni (nechta olingani)
+
+Saqlang:
+
+```
+olma → narx: 5000, soni: 3
+```
+
+Oxirida:
+
+* har bir mahsulot uchun jami narx (`narx * soni`)
+* umumiy summa
+* eng qimmat mahsulot
+
+---
+
+## 🔥 Bonus challenge:
+
+* Eng arzon mahsulotni toping
+* Eng ko‘p olingan mahsulotni toping
+
+---
+
+Agar xohlasangiz, shu topshiriqlardan birini **birga bosqichma-bosqich yechib beraman** yoki tekshirib beraman 🙂
