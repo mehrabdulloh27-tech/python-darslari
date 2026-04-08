@@ -1,0 +1,101 @@
+Zo‘r fikr 👍 — mashq qilish orqali juda tez o‘rganasiz. Sizga **bosqichma-bosqich qiyinlashib boradigan 5 ta topshiriq** beraman:
+
+---
+
+## 🟢 1-topshiriq (eng oson)
+
+Foydalanuvchidan ismlar qabul qiling va ro‘yxatga saqlang.
+`x` kiritilganda to‘xtasin.
+
+👉 Oxirida barcha ismlarni chiqaring.
+
+---
+
+## 🟡 2-topshiriq
+
+Foydalanuvchidan sonlar qabul qiling (int).
+Ularni ro‘yxatga qo‘shing.
+
+👉 Oxirida:
+
+* barcha sonlar
+* ularning yig‘indisi (`sum`)
+* eng kattasi (`max`)
+
+chiqarilsin.
+
+---
+
+## 🟠 3-topshiriq
+
+Mini menyu tuzing:
+
+```python
+menyu = {'non': 3000, 'sut': 8000, 'olma': 5000}
+```
+
+Foydalanuvchi mahsulot kiritsin.
+
+👉 Agar menyuda bo‘lsa:
+
+* narxini chiqaring
+
+👉 Agar yo‘q bo‘lsa:
+
+* "mavjud emas" deb yozing
+
+---
+
+## 🔵 4-topshiriq
+
+Foydalanuvchi mahsulot va miqdor kiritsin.
+
+👉 Har birini ro‘yxatda saqlang:
+
+* mahsulot
+* miqdor
+
+Masalan:
+
+```python
+[{'nom': 'osh', 'miqdor': 2}, ...]
+```
+
+---
+
+## 🔴 5-topshiriq (challenging 😎)
+
+Kassa dasturi yozing:
+
+```python
+menyu = {'osh': 30000, 'manti': 10000}
+```
+
+👉 Foydalanuvchi:
+
+* taom nomi
+* miqdor
+
+kiritadi
+
+👉 Siz:
+
+* har bir buyurtmani saqlang (dict ichida)
+* har birini chiqarib boring
+* oxirida umumiy summani chiqaring
+
+---
+
+### 🔥 BONUS (agar kuchingiz bo‘lsa):
+
+👉 faqat noyob mahsulotlarni chiqarish (`set`)
+👉 yoki eng ko‘p buyurtma qilingan mahsulotni topish
+
+---
+
+Agar xohlasangiz, men:
+✅ har bir topshiriqni yechimini
+yoki
+✅ siz yozgan kodni tekshirib beraman
+
+Qaysi topshiriqdan boshlaysiz? 😎
