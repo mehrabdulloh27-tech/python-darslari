@@ -1,0 +1,84 @@
+Albatta 👍 Sizga shu usulga o‘xshash, **lug‘at (`dict`), input, while, for** va Python asoslarini mustahkamlaydigan **5 ta mashq** yozib beraman.
+
+---
+
+# 🟢 1-mashq — Talabalar baholari
+
+Talabalarning ismi va bahosini lug‘atga saqlaydigan dastur yozing.
+Foydalanuvchi bir nechta talaba va uning bahosini kiritsin.
+`stop` yozilganda dastur to‘xtasin.
+Oxirida barcha talabalar va baholarni chiqaring.
+
+👉 Misol:
+
+* Ali → 5
+* Vali → 4
+
+---
+
+# 🟢 2-mashq — Telefon raqamlar kitobi
+
+Telefon daftar dasturi yozing.
+Foydalanuvchi ism va telefon raqam kiritsin.
+Hammasi lug‘atga saqlansin.
+Oxirida barcha kontaktlarni chiqaring.
+
+👉 Misol:
+
+* Aziz → +998901234567
+* Nodira → +998935551122
+
+---
+
+# 🟢 3-mashq — Davlat va poytaxt
+
+Davlatlar va ularning poytaxtlarini lug‘atga saqlang.
+Foydalanuvchi bir nechta davlat nomi va poytaxtini kiritsin.
+Keyin barcha ma’lumotlarni konsolga chiqaring.
+
+👉 Misol:
+
+* O‘zbekiston → Toshkent
+* AQSh → Washington
+
+---
+
+# 🟢 4-mashq — Kitob va muallif
+
+Kutubxona dasturi yozing.
+Foydalanuvchi kitob nomi va muallifini kiritsin.
+Bular lug‘atda saqlansin.
+Oxirida barcha kitoblarni chiqaring.
+
+👉 Misol:
+
+* O‘tkan kunlar → Abdulla Qodiriy
+* Xamsa → Alisher Navoiy
+
+---
+
+# 🟢 5-mashq — Fan va o‘qituvchi
+
+Maktab fanlari va ularni o‘qituvchi ustozlar ismini lug‘atga saqlang.
+Foydalanuvchi bir nechta fan va ustoz ismini kiritsin.
+Dastur oxirida barchasini chiqarsin.
+
+👉 Misol:
+
+* Matematika → Dilshod aka
+* Ingliz tili → Mohira opa
+
+---
+
+## 🔥 Bu mashqlarda siz o‘rganasiz:
+
+* `dict`
+* `while`
+* `input`
+* `for`
+* `stop`
+* `.items()`
+
+---
+
+Agar xohlasangiz, men sizga shu 5 ta mashq uchun **namunaviy kod skeleton (bo‘sh shablon)** ham yozib beraman, siz faqat to‘ldirasiz ✍️
