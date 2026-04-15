@@ -1,0 +1,19 @@
+3. Amaliy topshiriqlar
+1-topshiriq: Kvadratni hisoblash
+Shunday funksiya yaratingki, u sonni qabul qilsin va uning kvadratini konsolga chiqarsin. Funksiyaga 5, 10 va 25 sonlari bilan murojaat qiling.
+
+2-topshiriq: To'liq ism
+toliq_ism_yasa(ism, familiya) funksiyasini yarating. U ikkita parametrni birlashtirib, "Hurmatli [Ism] [Familiya], xush kelibsiz!" degan matnni chiqarsin.
+
+3-topshiriq: Yoshni hisoblash
+Foydalanuvchining tug'ilgan yilini qabul qilib, uning yoshini hisoblaydigan funksiya yozing. Funksiyaga kamida 3 xil tug'ilgan yil bilan murojaat qiling.
+
+4. Koddagi xatoni toping
+Quyidagi kodda nima xato? Uni to'g'rilash uchun nima qilish kerak?
+
+Python
+def kvadrat(son):
+    print(son * son)
+
+kvadrat() # Bu yerda xatolik bor
+Ushbu savollardan qaysi biri sizga qiyinchilik tug'dirdi yoki qaysi biri bo'yicha kod yozib berishimni xohlaysiz?
