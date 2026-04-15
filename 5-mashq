@@ -17,3 +17,48 @@ def kvadrat(son):
 
 kvadrat() # Bu yerda xatolik bor
 Ushbu savollardan qaysi biri sizga qiyinchilik tug'dirdi yoki qaysi biri bo'yicha kod yozib berishimni xohlaysiz?
+
+
+Quyida avval siz so‘ragan funksiya, keyin esa shunga o‘xshash Python mashq savollari keltirilgan:
+
+## 1. Funksiya (sonning kvadrati va kubi)
+
+```python
+def darajalarini_hisobla(son):
+    kvadrat = son ** 2
+    kub = son ** 3
+    print("Kvadrati:", kvadrat)
+    print("Kubi:", kub)
+
+# Foydalanuvchidan son olish
+son = float(input("Son kiriting: "))
+darajalarini_hisobla(son)
+```
+
+---
+
+## 2. Python o‘rganish uchun 5 ta mashq savollari
+
+1. **Ikki sonni qo‘shish**
+
+   * Foydalanuvchidan 2 ta son oling va ularning yig‘indisini chiqaruvchi funksiya yozing.
+
+2. **Juft yoki toqligini aniqlash**
+
+   * Foydalanuvchidan son olib, u juft yoki toq ekanini aniqlaydigan dastur tuzing.
+
+3. **Sonning faktorialini hisoblash**
+
+   * Foydalanuvchidan son olib, uning faktorialini hisoblaydigan funksiya yozing.
+
+4. **Ro‘yxatdagi eng katta sonni topish**
+
+   * List berilgan bo‘lsa, uning ichidan eng katta elementni topadigan funksiya yozing.
+
+5. **Matnni teskari qilish**
+
+   * Foydalanuvchidan matn oling va uni teskari qilib chiqaradigan funksiya yozing.
+
+---
+
+Agar xohlasangiz, shu savollarning yechimlarini ham bosqichma-bosqich tushuntirib beraman 👍
