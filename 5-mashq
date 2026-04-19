@@ -62,3 +62,151 @@ darajalarini_hisobla(son)
 ---
 
 Agar xohlasangiz, shu savollarning yechimlarini ham bosqichma-bosqich tushuntirib beraman 👍
+1. Foydanaluvchidan ismi, familiyasi, tug'ilgan yili, tug'ilgan joyi, email manzili va telefon raqamini qabul 
+qilib, lug'at ko'rinishida qaytaruvchi funksiya yozing. Lug'atda foydalanuvchu yoshi ham bo'lsin. 
+Ba'zi argumentlarni kiritishni ixtiyoriy qiling (masalan, tel.raqam, el.manzil)
+2. Yuqoridagi funksiyani while yordamida bir necha bor chaqiring, va mijozlar degan ro'yxatni shakllantiring. 
+Ro'yxatdagi mijozlar haqidagi ma'lumotni konsolga chiqaring.
+3. Uchta son qabul qilib, ulardan eng kattasini qaytaruvchi funksiya yozing
+4. Foydalanuvchidan aylaning radiusini qabul qilib olib, uning radiusini, 
+diametrini, perimetri va yuzini lug'at ko'rinishida qaytaruvchi funksiya yozing
+5. Berilgan oraliqdagi tub sonlar ro'yxatini qaytaruvchi funksiya yozing 
+(tub sonlar -faqat birga va o'ziga qoldiqsiz bo'linuvchi, 1 dan katta musbat sonlar)
+6. Foydalanuvchidan son qabul qilib, shu son miqdoricha Fibonachchi ketma-ketligidagi 
+sonlar ro'yxatni qaytaruvchi funksiya yozing. Ta'rif: Har bir hadi o'zidan oldingi ikkita 
+hadning yig'indisiga teng bo'lgan ketma-ketlik Fibonachchi ketma-ketligi deyiladi. 
+Bunda boshlang'ish had ko'pincha 1 deb olinadi. 1, 1, 2, 3, 5, 8, 13, 21, 34, 55,...
+Tushundim — hammasi **funksiya bilan** va biroz **murakkabroq** bo‘lsin 👍
+Quyida senga 10 ta yaxshi mashq berdim (real darajada o‘stiradi):
+
+---
+
+## 🧠 1-mashq
+
+Foydalanuvchi ma’lumotlarini qabul qiluvchi funksiya yozing:
+
+* ism, familiya, tug‘ilgan yil
+* yoshni hisoblasin
+* natijani **lug‘at** ko‘rinishida qaytarsin
+
+---
+
+## 🧠 2-mashq
+
+Ro‘yxat qabul qilib:
+
+* faqat **musbat sonlarni** qaytaradigan funksiya yozing
+
+---
+
+## 🧠 3-mashq
+
+Ikki son qabul qilib:
+
+* ular orasidagi barcha sonlarni ro‘yxat qilib qaytaradigan funksiya yozing
+  (masalan: 3 va 8 → [3,4,5,6,7,8])
+
+---
+
+## 🧠 4-mashq
+
+Matn qabul qilib:
+
+* nechta unli harf borligini hisoblaydigan funksiya yozing
+
+---
+
+## 🧠 5-mashq
+
+Lug‘at qabul qilib (mahsulot:narx):
+
+* eng qimmat mahsulotni topadigan funksiya yozing
+
+---
+
+## 🧠 6-mashq
+
+Ro‘yxat qabul qilib:
+
+* undagi takroriy elementlarni olib tashlab **yangi ro‘yxat** qaytaradigan funksiya yozing
+
+---
+
+## 🧠 7-mashq
+
+Son qabul qilib:
+
+* u **tub son** (prime) yoki yo‘qligini aniqlaydigan funksiya yozing
+
+---
+
+## 🧠 8-mashq
+
+Matn qabul qilib:
+
+* so‘zlarni teskari tartibda chiqaradigan funksiya yozing
+  ("salom dunyo" → "dunyo salom")
+
+---
+
+## 🧠 9-mashq
+
+Ro‘yxat va son qabul qilib:
+
+* ro‘yxatda shu son nechta marta qatnashganini hisoblaydigan funksiya yozing
+
+---
+
+## 🧠 10-mashq (murakkabroq 🔥)
+
+Avtolar ro‘yxatini qabul qiluvchi funksiya yozing:
+
+* har bir avto lug‘at ko‘rinishida bo‘lsin (model, narx, yil)
+* funksiya:
+
+  * eng qimmat mashinani
+  * eng yangi mashinani
+    qaytarsin
+
+---
+
+## 🚀 BONUS (challenging 💪)
+
+Funksiya yozing:
+
+* foydalanuvchidan cheksiz sonlar qabul qiladi (`while`)
+* `0` kiritilganda to‘xtaydi
+* va quyidagilarni qaytaradi:
+
+  * o‘rtacha qiymat
+  * eng katta
+  * eng kichik
+
+---
+
+Agar xohlasangiz, shu mashqlardan 2–3 tasini siz bilan **imtihon uslubida tekshirib**, xatolaringizni ko‘rsatib beraman.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
