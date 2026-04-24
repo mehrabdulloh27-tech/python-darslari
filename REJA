@@ -1,0 +1,239 @@
+Zo‘r. Endi gapni qisqa qilmayman — sizga **intizom bilan bajariladigan, natija beradigan real reja** beraman. Bu shunchaki “o‘qish” emas, **ishlab pulga chiqadigan plan**.
+
+---
+
+# 🧭 SIZNING REJANGIZ (kuniga 3–4 soat)
+
+## ⚙️ Umumiy qoidalar (buni buzsangiz — plan ishlamaydi)
+
+* Har kuni kamida **3 soat**
+* 70% amaliyot / 30% o‘rganish
+* Har hafta **bitta mini natija**
+* AI (ChatGPT) ishlatish mumkin, lekin:
+
+  * har kodni tushunmasdan qabul qilmaymiz
+
+---
+
+# 📅 1–OY (Foundation + Python Deep)
+
+## 🎯 Maqsad:
+
+Python’da mustahkam bo‘lish
+
+### 📚 O‘rganasiz:
+
+* Python advanced:
+
+  * functions, OOP
+  * list/dict comprehension
+  * file handling
+* basic algorithms
+
+---
+
+## ⏰ Kunlik reja (3–4 soat):
+
+### 1️⃣ (1 soat) — Nazariya
+
+* yangi mavzu
+
+### 2️⃣ (2 soat) — Kod yozish
+
+* 10–15 ta masala
+* LeetCode / o‘zingiz yozish
+
+### 3️⃣ (1 soat) — Mini project
+
+* calculator
+* todo app (console)
+
+---
+
+## 🔥 Oy oxiri natija:
+
+* 1 ta CLI app (masalan task manager)
+
+---
+
+# 📅 2–OY (Backend boshlanishi)
+
+## 🎯 Maqsad:
+
+API yozishni o‘rganish
+
+### 📚 Texnologiya:
+
+* FastAPI
+
+---
+
+## ⏰ Kunlik:
+
+### 1️⃣ (1 soat)
+
+* HTTP, API tushunchasi
+
+### 2️⃣ (2 soat)
+
+* CRUD API yozish
+
+### 3️⃣ (1 soat)
+
+* project
+
+---
+
+## 🔥 Project:
+
+* Blog API:
+
+  * register/login
+  * post qo‘shish
+  * comment
+
+---
+
+# 📅 3–OY (Database + Real backend)
+
+## 🎯 Maqsad:
+
+Real system qilish
+
+### 📚:
+
+* PostgreSQL
+* Auth (JWT)
+* relationships
+
+---
+
+## 🔥 Project:
+
+* mini CRM system:
+
+  * user
+  * products
+  * orders
+
+👉 bu sizning **birinchi kuchli portfolio project’ingiz**
+
+---
+
+# 📅 4–OY (Advanced backend)
+
+## 🎯:
+
+* clean code
+* architecture
+
+---
+
+### Qo‘shasiz:
+
+* pagination
+* filtering
+* logging
+
+---
+
+## 🔥 Project upgrade:
+
+CRM → professional darajaga olib chiqasiz
+
+---
+
+# 📅 5–OY (Pulga chiqish boshlanishi)
+
+## 🎯:
+
+* freelancing
+
+---
+
+### Qilasiz:
+
+* GitHub tozalash
+* 2 ta project joylash
+* Upwork / Telegram’da ish qidirish
+
+---
+
+# 📅 6–OY (AI kirish)
+
+## 🎯:
+
+AI bilan ishlash
+
+---
+
+### 📚:
+
+* scikit-learn
+* basic ML
+
+---
+
+## 🔥 Project:
+
+* recommendation system
+* simple AI chatbot
+
+---
+
+# ⚡ ENG MUHIM QISM
+
+## Siz har hafta:
+
+* 1 ta feature qo‘shasiz
+* GitHub push qilasiz
+
+---
+
+# 💰 REAL DAROMAD STRATEGIYASI
+
+## 1. 4-oydan:
+
+* kichik ishlar:
+
+  * API yozish
+  * bug fix
+
+## 2. 6-oydan:
+
+* $200–500 freelancing
+
+## 3. 12-oy:
+
+* $1000+
+
+---
+
+# ⚠️ SIZGA OCHIQ GAP
+
+Agar siz:
+
+* har kuni 3 soat qilmasangiz → bo‘lmaydi
+* project qilmasangiz → ish yo‘q
+* faqat video ko‘rsangiz → vaqt ketadi
+
+---
+
+# 🧠 SIZNI TOP LEVEL QILADIGAN ODAT
+
+Har safar savol bering:
+👉 “Men kod yozayapmanmi yoki muammo yechayapmanmi?”
+
+---
+
+# 🚀 Keyingi qadam (MUHIM)
+
+Agar xohlasangiz, keyingi bosqichda men sizga:
+
+* **1-oy uchun aniq kunlik tasklar (1-kundan 30-kungacha)**
+* **qaysi masalalarni ishlash**
+* **birinchi projectni qadam-baqadam yozish**
+
+beraman.
+
+Shunchaki yozing: **“1-OYNI BOSHLAYMIZ”**
