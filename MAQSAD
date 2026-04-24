@@ -1,0 +1,341 @@
+Dasturlash va dasturchilar so‘nggi 3 yil ichida (taxminan 2023–2026 oralig‘ida) juda tez, ba’zan hatto notekis rivojlanish bosqichidan o‘tdi. Bu davrni tushunish uchun texnologik, iqtisodiy va insoniy omillarni birgalikda ko‘rib chiqish kerak.
+
+---
+
+## 🚀 1. Asosiy rivojlanish yo‘nalishlari
+
+### Sun’iy intellektning keskin kirib kelishi
+
+So‘nggi yillarning eng katta o‘zgarishi — Sun’iy intellekt asosidagi vositalarning dasturlash jarayoniga chuqur kirib kelishi bo‘ldi. Ayniqsa, GitHub Copilot, ChatGPT kabi vositalar:
+
+* kod yozish tezligini oshirdi
+* oddiy vazifalarni avtomatlashtirdi
+* junior darajadagi ishlarni qisqartirdi
+
+Natijada dasturchi roli “kod yozuvchi”dan “muammo yechuvchi va tizim arxitektori”ga siljiy boshladi.
+
+---
+
+### Full-stack va universal muhandislikka o‘tish
+
+Oldin frontend/backend qat’iy ajralgan bo‘lsa, hozir:
+
+* bitta dasturchidan ko‘p texnologiyalarni bilish talab qilinmoqda
+* mikroservislar va cloud tizimlar kengaydi
+* Docker, Kubernetes kabi vositalar standartga aylandi
+
+Bu esa “T-shape developer” modelini kuchaytirdi (bir sohada chuqur, boshqalarda yetarli bilim).
+
+---
+
+### Remote va global bozor
+
+Pandemiyadan keyingi davrda:
+
+* remote ish normal holga aylandi
+* dasturchilar global raqobatga tushdi
+* narxlar differensiyasi paydo bo‘ldi (arzon ishchi kuchi vs yuqori malaka)
+
+Masalan, Markaziy Osiyo dasturchilari global bozorga faol kirib bormoqda.
+
+---
+
+## ⚠️ 2. Muammolar va kamchiliklar
+
+### Junior darajadagi inqiroz
+
+AI vositalari sabab:
+
+* oddiy kod yozish qiymati tushib ketdi
+* kompaniyalar juniorlarni kamroq yollayapti
+* “entry point” torayib bormoqda
+
+Bu uzoq muddatda tajribali mutaxassislar yetishmovchiligiga olib kelishi mumkin.
+
+---
+
+### “Copy-paste muhandisligi”
+
+AI yordamida yozilgan kod:
+
+* tez, lekin ko‘pincha yuzaki
+* chuqur tushunishsiz ishlatiladi
+* debugging qiyinlashadi
+
+Natijada “bilim illyuziyasi” paydo bo‘ladi — dasturchi ishlayotganini tushunmaydi.
+
+---
+
+### Texnologik haddan tashqari murakkablik
+
+Har yili yangi frameworklar chiqmoqda:
+
+* barqarorlik pasaymoqda
+* uzoq muddatli maintenance qiyinlashmoqda
+* “trend quvish” kuchaygan
+
+Masalan, JavaScript ekotizimi haddan tashqari fragmentatsiyalashgan.
+
+---
+
+### Mental va kognitiv bosim
+
+Dasturchilar uchun:
+
+* doimiy o‘rganish majburiy
+* burnout darajasi oshgan
+* ish va hayot muvozanati buzilmoqda
+
+Bu ayniqsa mid-level developerlar orasida sezilmoqda.
+
+---
+
+## 🧠 3. Chuqur tendensiyalar (ko‘pchilik sezmaydigan)
+
+### Kod yozish ≠ dasturchilik
+
+Asl qiymat quyidagilarga o‘tmoqda:
+
+* tizim fikrlash (system thinking)
+* arxitektura dizayni
+* biznes muammolarni tushunish
+
+Kelajakda oddiy “coder” emas, balki “problem solver” talab qilinadi.
+
+---
+
+### “AI bilan ishlash” yangi skillga aylandi
+
+Prompt yozish, AI natijalarini tekshirish:
+
+* yangi kompetensiya
+* hatto alohida kasbga aylanishi mumkin
+
+Bu dasturchilarni “AI operator”ga aylantiryapti.
+
+---
+
+### Individual developer kuchaymoqda
+
+Bitta kuchli developer:
+
+* AI yordamida kichik jamoa ishini qilishi mumkin
+* startup yaratish osonlashdi
+* indie hackerlar ko‘paymoqda
+
+---
+
+## 🔮 4. Keyingi 3 yil uchun prognoz (2026–2029)
+
+Agar trend davom etsa:
+
+* juniorlar uchun kirish yanada qiyinlashadi
+* senior va arxitektorlar qiymati oshadi
+* AI bilan integratsiya qilinmagan dasturchilar ortda qoladi
+* “no-code / low-code” platformalar kengayadi
+
+Lekin to‘liq avtomatlashtirish bo‘lmaydi — chunki biznes muammolari hali ham inson tafakkurini talab qiladi.
+
+---
+
+## ⚖️ Xulosa
+
+So‘nggi 3 yil dasturlashni soddalashtirmadi — aksincha:
+
+* past darajadagi ishlarni osonlashtirdi
+* yuqori darajadagi fikrlashni murakkablashtirdi
+
+Ya’ni, kirish osonlashgandek ko‘rinadi, lekin haqiqiy professional bo‘lish yanada qiyinlashdi.
+
+---
+
+Agar xohlasangiz, men siz uchun:
+
+* aynan O‘zbekiston bozoridagi holat
+* qaysi yo‘nalish (frontend, backend, AI, mobile) istiqbolli
+* yoki 0 dan qanday strategiya bilan kuchli dasturchi bo‘lish
+
+haqida ham chuqur, aniq reja qilib beraman.
+Yaxshi — unda aniq va real strategiya beraman. Bu shunchaki “o‘rganing” degan umumiy gaplar emas, balki hozirgi (AI davrida) ishlaydigan model.
+
+---
+
+# 🧭 0 dan kuchli dasturchi bo‘lish strategiyasi (2026 modeli)
+
+## ⚠️ Avval haqiqat:
+
+Agar eski yo‘l bilan (faqat kurs + copy-paste) yursangiz — 6–12 oy o‘qib ham ish topolmasligingiz mumkin.
+Shuning uchun strategiya boshqacha bo‘lishi kerak.
+
+---
+
+# 🧠 1. Fundament — sizni boshqalardan ajratadigan qism
+
+Ko‘pchilik bu bosqichni o'tkazib yuboradi.
+
+### Siz bilishingiz shart:
+
+* algoritmik fikrlash (oddiy emas, tushunib)
+* qanday qilib kompyuter ishlaydi (RAM, CPU, request)
+* internet qanday ishlaydi (HTTP, API)
+
+👉 Bu yerda asosiy maqsad: **kod yozishni emas, tizimni tushunish**
+
+---
+
+# ⚙️ 2. Bitta yo‘nalishni tanlash (eng muhim qaror)
+
+Hozir eng real 4 yo‘l:
+
+### 1. Frontend (tez ish topish)
+
+* HTML, CSS, JavaScript
+* React
+* oddiy portfolio
+
+👉 Minus: raqobat juda katta
+
+---
+
+### 2. Backend (uzoq muddatli kuch)
+
+* Node.js / Python / Java
+* API, database, auth
+* real tizimlar
+
+👉 Plus: AI bu sohani kamroq bosib kelyapti
+
+---
+
+### 3. AI / Data (eng istiqbolli)
+
+* Python
+* TensorFlow
+* PyTorch
+
+👉 Minus: kirish qiyin, lekin kelajak shu
+
+---
+
+### 4. Mobile (barqaror yo‘l)
+
+* Flutter / Swift / Kotlin
+
+👉 yaxshi freelancing imkoniyati bor
+
+---
+
+# 🤖 3. AI bilan ishlashni o‘rganish (majburiy skill)
+
+Bugungi kunda:
+
+* ChatGPT
+* GitHub Copilot
+
+sizning “raqobatchingiz” emas — **sizning kuchaytirgichingiz**
+
+### Lekin farq:
+
+❌ yomon dasturchi:
+
+* AI dan copy qiladi
+* tushunmaydi
+
+✅ kuchli dasturchi:
+
+* AI ni tekshiradi
+* optimizatsiya qiladi
+* xatoni topadi
+
+---
+
+# 🏗️ 4. Portfolio — sizning haqiqiy CV’ingiz
+
+Diplom emas, **project hal qiladi**
+
+### Sizda kamida bo‘lishi kerak:
+
+* 3 ta real loyiha:
+
+  * mini startup
+  * API bilan ishlovchi app
+  * login/auth tizimi
+
+Masalan:
+
+* online shop
+* telegram bot
+* AI tool
+
+---
+
+# 💰 5. Qanday qilib ish topiladi (real gap)
+
+### 2026 haqiqat:
+
+* CV bilan emas
+* GitHub + project bilan olinadi
+
+### Platformalar:
+
+* Upwork
+* LinkedIn
+* Telegram community
+
+---
+
+# ⚠️ 6. Eng katta xatolar
+
+### ❌ 1. 10 ta kurs qilish
+
+→ natija: 0 ta skill
+
+### ❌ 2. faqat video ko‘rish
+
+→ “men tushundim” illyuziyasi
+
+### ❌ 3. AI ga to‘liq suyanish
+
+→ growth to‘xtaydi
+
+### ❌ 4. tez pul kutish
+
+→ 3 oyda ish topish — kam uchraydi
+
+---
+
+# 🔥 7. 6 oylik real roadmap
+
+### 1–2 oy:
+
+* fundamental + basic coding
+
+### 3–4 oy:
+
+* bitta stack chuqur o‘rganish
+
+### 5–6 oy:
+
+* project + freelancing urinish
+
+---
+
+# 🧠 Eng muhim fikr
+
+Kelajakda 2 xil dasturchi qoladi:
+
+1. ❌ “kod yozuvchi”
+2. ✅ “muammo yechuvchi”
+
+AI birinchisini yo‘q qiladi.
+Ikkinchisini esa kuchaytiradi.
+
+---
+
+Agar xohlasangiz, keyingi bosqichda sizga:
+
+* aynan sizga mos yo‘nalishni tanlab beraman
+* kunlik o‘qish rejasi (soatlab) tuzaman
+* 1 ta projectni noldan qanday qilishni ko‘rsataman
+
+Qaysi yo‘l sizga qiziq: **Frontend, Backend, AI yoki Mobile?**
