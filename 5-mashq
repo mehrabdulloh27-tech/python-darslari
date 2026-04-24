@@ -96,6 +96,17 @@ Foydalanuvchi ma’lumotlarini qabul qiluvchi funksiya yozing:
 Ro‘yxat qabul qilib:
 
 * faqat **musbat sonlarni** qaytaradigan funksiya yozing
+"""def musbat_son(*musbat_s):
+   musbat_ruyhat=[]
+   for a in musbat_s:
+      if a>0:
+         musbat_ruyhat.append(a)
+   return musbat_ruyhat
+print(musbat_son(2, 3, -10, 50))
+"""
+"""def musbat_son(*musbat_ruyhat):
+   return [a for a in musbat_ruyhat if a>0]
+print(musbat_son(2, 3, -10, 5))"""
 
 ---
 
