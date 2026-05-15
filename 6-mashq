@@ -1,0 +1,69 @@
+Python’da funksiyalar va lug‘atlar bilan ishlashni mashq qilish uchun quyidagi 5 ta savolni bajarib ko‘ring:
+
+### 1-SAVOL
+
+Foydalanuvchidan ismi, familiyasi, tug‘ilgan yili, tug‘ilgan joyi, email manzili va telefon raqamini qabul qilib, lug‘at ko‘rinishida qaytaruvchi funksiya yozing. Lug‘atda foydalanuvchi yoshi ham bo‘lsin. Ba’zi argumentlarni kiritishni ixtiyoriy qiling (`tel_raqam`, `email`).
+
+---
+
+### 2-SAVOL
+
+Mahsulot haqida ma’lumot saqlovchi funksiya yozing. Funksiya quyidagi ma’lumotlarni qabul qilsin:
+
+* mahsulot nomi
+* narxi
+* soni
+* ishlab chiqaruvchi firma
+* chegirma foizi (ixtiyoriy)
+
+Funksiya jami narxni hisoblab lug‘at qaytarsin.
+
+---
+
+### 3-SAVOL
+
+Talaba haqida ma’lumot yig‘uvchi funksiya yozing. Funksiya:
+
+* ism
+* familiya
+* kurs
+* fakultet
+* fanlar ro‘yxati
+
+ma’lumotlarini qabul qilib, lug‘at qaytarsin. Fanlar sonini ham lug‘atga qo‘shing.
+
+---
+
+### 4-SAVOL
+
+Avtomobil haqida ma’lumot beruvchi funksiya yozing. Quyidagi argumentlarni ishlating:
+
+* model
+* rang
+* yil
+* narx
+* probeg (ixtiyoriy)
+
+Funksiya avtomobil yoshini hisoblab qaytarsin.
+
+---
+
+### 5-SAVOL
+
+Kitob haqida ma’lumot saqlovchi funksiya yozing. Funksiya:
+
+* kitob nomi
+* muallif
+* sahifalar soni
+* nashr yili
+* janri (ixtiyoriy)
+
+ma’lumotlarini qabul qilib, lug‘at qaytarsin. Kitob necha yillik ekanini ham hisoblang.
+
+---
+
+Qo‘shimcha mashq uchun:
+
+* Har bir funksiyani `input()` bilan ishlating.
+* Natijani `print()` orqali chiroyli chiqarishga harakat qiling.
+* `for` sikli yordamida bir nechta ma’lumotlarni yig‘ib ko‘ring.
