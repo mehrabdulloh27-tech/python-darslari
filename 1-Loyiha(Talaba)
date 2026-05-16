@@ -4,20 +4,21 @@ def talaba_info_kirit(ism, familya, kurs, fakultet, fanlar_ruyhati):
 talabalar=[]
 while True:
 	fanlar_ruyhati=[]
-	ism=input("Talaba ismini kiriting: ")
-	familya=input("Talaba familyasini kiriting: ")
-	kurs=input("Talaba kursini kiriting: ")
-	fakultet=input("Talaba fakultetini kiriting: ")
+	ism=input("Talaba ismini kiriting: ").title()
+	familya=input("Talaba familyasini kiriting: ").title()
+	kurs=int(input("Talaba kursini kiriting: "))
+	fakultet=input("Talaba fakultetini kiriting: ").title()
 	while True:
 		fan=input("Fanni kiriting: ")
 		fanlar_ruyhati.append(fan)
 		javob=input("Yana fan kiritasizmi: (yes/no)")
-		if javob=="no":
+		if javob.lower()=="no":
 			break
 	malumot=talaba_info_kirit(ism, familya, kurs, fakultet, fanlar_ruyhati)
 	talabalar.append(malumot)
 	javob=input("Yana talaba bormi: (yes/no)")
-	if javob=="no":
+	if javob.lower()=="no":
 		break
 for talaba in talabalar:
-	print(talaba)
+	print(f"Talaba ismi: {talaba['ism']} \nTalaba familyasi: {talaba['familya']} \nTalaba {talaba['kurs']}-kurs \nTalaba {talaba['fakultet']} fakultetida \nTalabaga {talaba['fanlar_ruyhati']} fanlari o'tiladi ")
+
