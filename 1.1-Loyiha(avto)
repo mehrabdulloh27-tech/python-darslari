@@ -1,0 +1,23 @@
+def avto_info(model, rang, yil, narx, probeg=None):
+   avto_malumot={"model":model, "rang":rang, "yil":yil, "narx":narx, "probeg":probeg}
+   return avto_malumot
+avtolar=[]
+while True:
+   model=input("Mashina moldelini kiriting: ")
+   rang=input("Mashina rangini kiriting: ")
+   yil=int(input("mashina yilini kiriting: "))
+   narx=int(input("Mashina narxini kiriting: "))
+   probeg=input("Mashina probegini kiriting: ")
+   if probeg:
+      probeg=int(probeg)
+   else:
+      probeg=None
+   avtolar.append(avto_info(model, rang, yil, narx, probeg))
+   javob=input("Yana mashina yo'shasizmi: (yes/no)")
+   if javob.lower()=="no":
+      break
+for avto in avtolar:
+   print(f"Mashina modeli: {avto['model']} \nMashina rangi: {avto['rang']} \nMashina yili: {avto['yil']} \nMashina yoshi: {2026-avto['yil']}"
+      f"\nMashina narxi: {avto['narx']}"
+      f"\nMashina probegi: {avto['probeg']}")
+
