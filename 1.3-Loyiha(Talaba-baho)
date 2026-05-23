@@ -6,5 +6,6 @@ def bahola(ismlar):
       baholar[ism]=baho
    return baholar
 talabalar=["bahodir", "abdugani", "jahongir", "aziz", "shavkat"]
-baholar=bahola(talabalar)
+baholar=bahola(talabalar[:])
 print(baholar)
+print(talabalar)
