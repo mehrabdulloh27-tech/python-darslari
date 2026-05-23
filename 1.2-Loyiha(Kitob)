@@ -1,0 +1,22 @@
+def kitob_info(nomi, muallif, sahifalar_soni, nashr_yili, janri=None):
+	kitob_inf={"nomi":nomi, "muallif":muallif, "sahifalar_soni":sahifalar_soni, "nashr_yili":nashr_yili, "janri":janri}
+	return kitob_inf
+kitoblar=[]
+while True:
+	nomi=input("Kitob nomini kiriting: ")
+	muallif=input("Kitob muallifini kiriting: ")
+	sahifalar_soni=input("Kitob sahifalar sonini kiriting: ")
+	nashr_yili=int(input("Kitob nashr yilini kiriting: "))
+	janri=input("Kitob janrini kiriting: (bor/yuq)")
+	if janri.lower()=="yuq":
+		janri=None
+	javob=input("Yana kitob qushasizmi: (yes/no)")
+	kitoblar.append(kitob_info(nomi, muallif, sahifalar_soni, nashr_yili, janri))
+	if javob.lower()=="no":
+		break
+for kitob in kitoblar:
+	print(f"Kitob nomi: {kitob['nomi']}"
+		f"\nKitob muallifi: {kitob['muallif']}"
+		f"\nKitob sahifalar soni: {kitob['sahifalar_soni']}"
+		f"\nKitob nashr etilgan yil: {kitob['nashr_yili']}"
+		f"\nKitob janri: {kitob['janri']}")
