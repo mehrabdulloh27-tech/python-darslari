@@ -1,0 +1,10 @@
+def bosh_harf():
+   ruyhat=[]
+   while True:
+      matn1=input("Matn kiriting, agar kiritmasangiz (yuq)")
+      if matn1.lower()=="yuq":
+         break
+      ruyhat.append(matn1.title())
+   return ruyhat
+start=bosh_harf()
+print(start)
