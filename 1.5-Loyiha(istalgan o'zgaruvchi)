@@ -1,0 +1,6 @@
+def summa(*sonlar):
+   yigindi=0
+   for son in sonlar:
+      yigindi+=son
+   return yigindi
+print(summa(1,3,5,8))
