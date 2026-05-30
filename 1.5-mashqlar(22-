@@ -21,3 +21,9 @@ def son_qush(*sonlar):
    return yigindi
 natija=son_qush(5, 6, 8)
 print(natija) 
+
+def num_min(*sonlar):
+   return min(sonlar)
+natija=num_min(5, 2, 10)
+print(natija)
+
