@@ -4,3 +4,11 @@ def summa(*sonlar):
       yigindi+=son
    return yigindi
 print(summa(1,3,5,8))
+
+
+def talaba_info(ism, familya, **tuliq_info):
+   tuliq_info["ism"]=ism
+   tuliq_info["familya"]=familya
+   return tuliq_info
+start=talaba_info("Abdugani", "Teshaboyev", kasbi="bojxonachi", yoshi=24, malumoti="oliy")
+print(start)
