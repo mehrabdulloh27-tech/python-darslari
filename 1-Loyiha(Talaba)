@@ -1,3 +1,7 @@
+topshiriq: shu kabi pythonda ishlash uchun 10 ta topshiriq yozib ber
+
+
+
 def talaba_info_kirit(ism, familya, kurs, fakultet, fanlar_ruyhati):
 	talaba_info={"ism":ism, "familya":familya, "kurs":kurs, "fakultet":fakultet, "fanlar_ruyhati":fanlar_ruyhati}
 	return talaba_info
