@@ -46,3 +46,20 @@ def mid_sum(a, b):
    return (a+b)/2
 result=mid_sum(5, 2)
 print(result)
+
+def text_opp(text):
+	result=''
+	for letter in text:
+		result=letter+result
+	return result
+result=text_opp('abdugani')
+print(result)
+
+def factorial_a(a):
+	result=1
+	for x in range(1, a+1):
+		result*=x
+	return result
+result=factorial_a(3)
+print(result)
+
