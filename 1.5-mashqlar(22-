@@ -12,3 +12,12 @@ def talaba_info(ism, familya, **tuliq_info):
    return tuliq_info
 start=talaba_info("Abdugani", "Teshaboyev", kasbi="bojxonachi", yoshi=24, malumoti="oliy")
 print(start)
+
+
+def son_qush(*sonlar):
+   yigindi=0
+   for son in sonlar:
+      yigindi+=son
+   return yigindi
+natija=son_qush(5, 6, 8)
+print(natija) 
