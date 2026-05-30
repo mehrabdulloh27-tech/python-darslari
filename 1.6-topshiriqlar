@@ -1,0 +1,35 @@
+Albatta. Siz bergan topshiriqqa o‘xshash, **Python funksiyalari bilan ishlash** uchun 10 ta amaliy topshiriq:
+
+1. **Istalgancha sonlarni qabul qilib, ularning yig‘indisini qaytaruvchi funksiya yozing.**
+
+2. **Berilgan sonlar ichidan eng kattasini topib qaytaruvchi funksiya yozing.**
+
+3. **Berilgan sonlar ichidan eng kichigini topib qaytaruvchi funksiya yozing.**
+
+4. **Matn qabul qilib, undagi belgilar sonini qaytaruvchi funksiya yozing.**
+
+5. **Son qabul qilib, uning juft yoki toqligini aniqlovchi funksiya yozing.**
+
+6. **Ikki son qabul qilib, ularning o‘rta arifmetigini qaytaruvchi funksiya yozing.**
+
+7. **Ro‘yxat (list) qabul qilib, undagi barcha elementlar ko‘paytmasini qaytaruvchi funksiya yozing.**
+
+8. **Matn qabul qilib, uni teskari ko‘rinishda qaytaruvchi funksiya yozing.**
+
+9. **Son qabul qilib, uning faktorialini hisoblovchi funksiya yozing.**
+
+10. **Istalgancha sonlarni qabul qilib, faqat musbat sonlar yig‘indisini qaytaruvchi funksiya yozing.**
+
+### Biroz murakkabroq topshiriqlar
+
+11. **Berilgan matndagi unli harflar sonini hisoblovchi funksiya yozing.**
+
+12. **Son qabul qilib, uning tub son yoki yo‘qligini aniqlovchi funksiya yozing.**
+
+13. **Ikki satr (string) qabul qilib, ular anagramma ekanligini tekshiruvchi funksiya yozing.**
+
+14. **Ro‘yxatdagi takrorlangan elementlarni olib tashlab, yangi ro‘yxat qaytaruvchi funksiya yozing.**
+
+15. **Berilgan sonlar ichidan faqat juft sonlarni qaytaruvchi funksiya yozing.**
+
+Bu topshiriqlar `*args`, `return`, `if`, `for`, `list`, `string` va funksiyalar mavzularini yaxshi mustahkamlashga yordam beradi.
