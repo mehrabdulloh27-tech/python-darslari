@@ -27,3 +27,8 @@ def num_min(*sonlar):
 natija=num_min(5, 2, 10)
 print(natija)
 
+
+def num_point(text):
+   return len(text)
+natija=num_point("abdugani")
+print(natija)
