@@ -32,3 +32,17 @@ def num_point(text):
    return len(text)
 natija=num_point("abdugani")
 print(natija)
+
+
+def num_type(son):
+   if son%2==0:
+      print(f"{son} soni juft")
+   else:
+      print(f"{son} soni toq")
+result=num_type(25)
+
+
+def mid_sum(a, b):
+   return (a+b)/2
+result=mid_sum(5, 2)
+print(result)
