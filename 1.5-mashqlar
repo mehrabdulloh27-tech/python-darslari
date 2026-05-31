@@ -63,3 +63,13 @@ def factorial_a(a):
 result=factorial_a(3)
 print(result)
 
+
+def vowel_number(text):
+   list_n=0
+   vowel_l=['a', 'e', 'i', 'u', 'o']
+   for letter in text:
+      if letter in vowel_l:
+         list_n+=1
+   return list_n
+result=vowel_number("Termiz xalqaro savdo markazi")
+print(result)
