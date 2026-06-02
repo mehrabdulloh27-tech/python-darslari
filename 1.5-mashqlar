@@ -84,3 +84,9 @@ def prime_n(a):
          return
    print(f"{a} soni tub son")
 result=prime_n(5)
+
+def annogramm_text(text1, text2):
+   text1=text1.replace(" ", "")
+   text2=text2.replace(" ", "")
+   return sorted(text1.lower())==sorted(text2.lower())
+print(annogramm_text("abdugani jon", "inagudba     jon"))
