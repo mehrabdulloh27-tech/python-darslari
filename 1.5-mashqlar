@@ -73,3 +73,14 @@ def vowel_number(text):
    return list_n
 result=vowel_number("Termiz xalqaro savdo markazi")
 print(result)
+
+def prime_n(a):
+   if a<2:
+      print(f"{a} tub son emas")
+      return
+   for x in range(2, int(a**0.5)+1):
+      if x%a==0:
+         print(f"{a} tub son")
+         return
+   print(f"{a} soni tub son")
+result=prime_n(5)
