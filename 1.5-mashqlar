@@ -90,3 +90,4 @@ def annogramm_text(text1, text2):
    text2=text2.replace(" ", "")
    return sorted(text1.lower())==sorted(text2.lower())
 print(annogramm_text("abdugani jon", "inagudba     jon"))
+
